@@ -1,1 +1,3 @@
-ne vardir bunun içinde
+ne vardir bunun icinde
+adaddadassgit 
+adada
